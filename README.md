@@ -1,6 +1,6 @@
 # Projeto I - Arquitetura de Software: E-commerce Monolítico Refatorado (SOLID)
 
-Este projeto consiste na refatoração de um backend de e-commerce com código legado, aplicando os princípios SOLID para melhorar a separação de responsabilidades, a manutenibilidade e a extensibilidade do sistema[cite: 3].
+Este projeto consiste na refatoração de um backend de e-commerce com código legado, aplicando os princípios SOLID da matéria de Arquitetura de Software ministrada por Maikon Bueno.
 
 ## Instalação e Configuração
 
